@@ -1,4 +1,9 @@
-# Oasis 500M
+** PumpFun World
+Welcome to PumpFun World! 🎮✨
+
+This project brings the iconic Pump.Fun experience to life, leveraging the power of Oasis AI to generate a vibrant Minecraft universe. Explore a uniquely crafted world filled with nostalgic elements and immersive gameplay inspired by the beloved Pump.Fun aesthetics.
+
+In order to see the iconic Pump.Fun logo come to life during gametime in Oasis, the team behind PFWorld built a model to test the optimum backgrounds used in order to for the logo to retain form within the game. 
 
 ![](./media/arch.png)
 
